@@ -1,3 +1,3 @@
-# sick snake game
+sick snake game
 
-### https://snakey.pages.dev/
+https://snakey.pages.dev/
